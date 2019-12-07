@@ -1,0 +1,11 @@
+{
+  "url": "http://pixelatomy.com/dzone",
+  "infoCommand": "//Simulating Server//",
+  "servers": [
+    {
+      "id": "560560872699854848",
+      "default": true,
+      "ignoreChannels": []
+    }
+  ]
+}
